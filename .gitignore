@@ -1,0 +1,6 @@
+obj/
+bin/
+umbraco
+wwwroot/media
+wwwroot/umbraco
+packages
